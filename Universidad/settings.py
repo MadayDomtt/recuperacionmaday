@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'Universidad.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'Universidad.db',
+        'NAME': 'Crud.db',
     }
 }
 """
